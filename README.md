@@ -9,6 +9,7 @@
 [pygame系列_百度随心听_完美的UI设计](http://www.cnblogs.com/hongten/p/hongten_pygame_pymusic.html)
 
 这个程序的灵感来自于[百度随心听](http://fm.baidu.com/)
+
 ![Example](https://github.com/Hongten/PyMusic/blob/master/images/o_hongten_pygame_fm.png)
 
 # 说明
