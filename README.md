@@ -129,5 +129,5 @@ Good Luck!
 * Author            : Hongten
 * E-mail            : [hongtenzone@foxmail.com](mailto:hongtenzone@foxmail.com)
 * Home Page         : [http://www.cnblogs.com/hongten](http://www.cnblogs.com/hongten)
-* Refer Skin Page   : [http://www.cnblogs.com/hongten/p/hongten_notepad_substance_skins.html](http://www.cnblogs.com/hongten/p/hongten_notepad_substance_skins.html)
-* Substance URL     : [https://substance.dev.java.net/](https://substance.dev.java.net/)
+* Refer Skin Page   : [http://www.cnblogs.com/hongten/p/hongten_pygame_pymusic.html](http://www.cnblogs.com/hongten/p/hongten_pygame_pymusic.html)
+* Blog              : [http://www.cnblogs.com/hongten/p/hongten_pygame_pymusic_public.html](http://www.cnblogs.com/hongten/p/hongten_pygame_pymusic_public.html)
