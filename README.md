@@ -9,7 +9,7 @@
 [pygame系列_百度随心听_完美的UI设计](http://www.cnblogs.com/hongten/p/hongten_pygame_pymusic.html)
 
 这个程序的灵感来自于[百度随心听](http://fm.baidu.com/)
-![Example](https://github.com/Hongten/PyMusic/blob/master/image/o_hongten_pygame_fm.png)
+![Example](https://github.com/Hongten/PyMusic/blob/master/images/o_hongten_pygame_fm.png)
 
 # 说明
 
@@ -19,23 +19,23 @@
 
 经过一个阶段的调试，现在算是可以拿上台面和大家交流
 
-# 如果你鼠标移动到黄色小圆里面，就会出现作者信息
-![Example](https://github.com/Hongten/PyMusic/blob/master/image/o_hongten_pygame_pymusic1.png)
+# UI
+![Example](https://github.com/Hongten/PyMusic/blob/master/images/o_hongten_pygame_pymusic1.png)
 
 # 正在播放
-![Example](https://github.com/Hongten/PyMusic/blob/master/image/o_hongten_pygame_pymusic2.png)
+![Example](https://github.com/Hongten/PyMusic/blob/master/images/o_hongten_pygame_pymusic2.png)
 
 # 喜欢效果
-![Example](https://github.com/Hongten/PyMusic/blob/master/image/o_hongten_pygame_pymusic3.png)
+![Example](https://github.com/Hongten/PyMusic/blob/master/images/o_hongten_pygame_pymusic3.png)
 
 # 删除效果
-![Example](https://github.com/Hongten/PyMusic/blob/master/image/o_hongten_pygame_pymusic4.png)
+![Example](https://github.com/Hongten/PyMusic/blob/master/images/o_hongten_pygame_pymusic4.png)
 
 # 下一曲效果
-![Example](https://github.com/Hongten/PyMusic/blob/master/image/o_hongten_pygame_pymusic5.png)
+![Example](https://github.com/Hongten/PyMusic/blob/master/images/o_hongten_pygame_pymusic5.png)
 
 # 暂停/播放效果
-![Example](https://github.com/Hongten/PyMusic/blob/master/image/o_hongten_pygame_pymusic6.png)
+![Example](https://github.com/Hongten/PyMusic/blob/master/images/o_hongten_pygame_pymusic6.png)
 
 # 功能介绍
 
